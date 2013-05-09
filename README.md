@@ -54,5 +54,6 @@ Install the grunt cli to allow the grunt task runner to run. Grunt is not needed
 
 ## Install Project
 * Clone repo
-* From root directory of the project run `npm install` to install dependencies
+* From root directory of the project run `npm install` to install dev dependencies
+* From root directory of the proejct run `bower install` to install project dependencies
 * Run grunt tasks: `grunt build:dev`, `grunt build:prod` and `grunt test`.
