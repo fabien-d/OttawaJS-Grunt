@@ -1,6 +1,6 @@
 Code sample from my talk at Ottawa JS on Grunt - May 8, 2013.
 
-Slides available on [SlideShare](http://www.slideshare.net/FabienDoiron/grunt-js).
+Slides available on [SlideShare](http://www.slideshare.net/FabienDoiron/grunt-js) and [Speaker Deck](https://speakerdeck.com/fabien_doiron/grunt-js)
 
 ## Dependencies
 * [nvm](https://github.com/creationix/nvm)
